@@ -1,0 +1,13 @@
+sample_id,patient_id,tissue,condition,collection_date
+S001,P01,liver,tumor,2026-01-05
+S002,P01,liver,normal,2026-01-05
+S003,P02,lung,tumor,2026-02-10
+S004,P02,lung,normal,2026-02-10
+S005,P03,breast,tumor,2026-03-15
+S006,P03,breast,normal,2026-03-15
+S007,P04,liver,tumor,2026-04-20
+S008,P04,lung,tumor,2026-04-20
+S009,P05,breast,tumor,2026-05-25
+S010,P05,breast,normal,2026-05-25
+S011,P06,lung,normal,2026-06-30
+S012,P06,liver,normal,2026-06-30
